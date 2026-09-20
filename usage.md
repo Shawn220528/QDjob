@@ -1,6 +1,7 @@
 ## 使用方法  
 ### 基础使用方式
 由于本项目核心加密参数不公开，因此请下载release中的exe文件，并按照以下步骤使用。[常见错误与解决方案](error_resolution.md)  
+*`7.9.430`版本及以上会因为加固而抓包困难，建议使用比这更早一点的版本，比如`420~428`版本，旧版可以通过豌豆荚寻找和下载*
 1. **下载[release](https://github.com/JaniQuiz/QDjob/releases)中的`QDjob.exe`和`QDjob_editor.exe`文件，放到同一个目录下**
 
 2. **运行`QDjob_editor.exe`，软件会自动创建配置`config.json`文件，按照下面说明配置用户，目前最大支持3个账号**  
